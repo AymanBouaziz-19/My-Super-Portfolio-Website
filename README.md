@@ -57,7 +57,7 @@ Each project is presented in a modern grid layout. Clicking any card reveals a *
 ---
 
 📂 File Structure
-
+```
 my-super-portfolio/
 ├── public/
 │   └── assets/            # Images, logos, screenshots
@@ -70,6 +70,7 @@ my-super-portfolio/
 ├── tailwind.config.js
 ├── package.json
 └── README.md
+```
 
 ---
 
