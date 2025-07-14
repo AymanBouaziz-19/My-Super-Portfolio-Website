@@ -55,7 +55,7 @@ Each project is presented in a modern grid layout. Clicking any card reveals a *
 
 ---
 
-## 📂 File Structure
+📂 File Structure
 
 my-super-portfolio/
 ├── public/
