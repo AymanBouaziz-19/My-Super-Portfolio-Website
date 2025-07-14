@@ -54,10 +54,6 @@ Each project is presented in a modern grid layout. Clicking any card reveals a *
 {selected && <ProjectModal project={selected} onClose={() => setSelected(null)} />}
 
 
-
----
----
-
 ## 📂 File Structure (Simplified)
 
 my-super-portfolio/
