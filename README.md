@@ -52,7 +52,7 @@ Each project is presented in a modern grid layout. Clicking any card reveals a *
 // Sample structure (simplified)
 <ProjectCard onClick={() => setSelected(project)} />
 {selected && <ProjectModal project={selected} onClose={() => setSelected(null)} />}
-
+```
 
 ---
 
