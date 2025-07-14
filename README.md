@@ -53,6 +53,9 @@ Each project is presented in a modern grid layout. Clicking any card reveals a *
 <ProjectCard onClick={() => setSelected(project)} />
 {selected && <ProjectModal project={selected} onClose={() => setSelected(null)} />}
 
+
+
+---
 ---
 
 ## 📂 File Structure (Simplified)
